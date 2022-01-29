@@ -1,5 +1,16 @@
 ---
 title: "JJ Bravo"
+image: "blog_img.jpeg"
+description: "The meaning of life isn't what you think it is, it is what you make it"
+links: 
+  - label: Linkedin
+    url: "https://www.linkedin.com/in/jjbravo/"
+  - label: Github
+    url: "https://github.com/jjbravo97/jjbravo97"
+output:
+  postcards::jolla
 site: distill::distill_website
 listing: posts
+
 ---
+The meaning of life isn't what you think it is, it is what you make it

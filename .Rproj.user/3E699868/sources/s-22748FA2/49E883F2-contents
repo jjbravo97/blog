@@ -1,5 +1,6 @@
-name: "jj_bravo"
-title: "JJ Bravo"
+name: "blog"
+title: "Blog"
+theme: my_theme.css
 description: |
   JJ Bravo
 output_dir: "_site"

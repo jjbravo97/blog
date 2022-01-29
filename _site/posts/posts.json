@@ -1,19 +1,26 @@
 [
   {
     "path": "posts/welcome/",
-    "title": " ",
+    "title": "Hello World",
     "description": "Welcome to my project space",
-    "author": [
-      {
-        "name": "",
-        "url": "https://example.com/norajones"
-      }
-    ],
-    "date": "2019-01-01",
+    "author": [],
+    "date": "2022-01-29",
     "categories": [],
     "contents": "\n\n\n\n",
     "preview": {},
-    "last_modified": "2022-01-29T12:55:51-05:00",
-    "input_file": {}
+    "last_modified": "2022-01-29T14:07:34-05:00",
+    "input_file": "welcome.knit.md"
+  },
+  {
+    "path": "posts/2022-01-29-test/",
+    "title": "test",
+    "description": "A short description of the post.",
+    "author": [],
+    "date": "2022-01-29",
+    "categories": [],
+    "contents": "\nDistill is a publication format for scientific and technical writing, native to the web.\nLearn more about using Distill at https://rstudio.github.io/distill.\n\n\n\n",
+    "preview": {},
+    "last_modified": "2022-01-29T14:06:41-05:00",
+    "input_file": "test.knit.md"
   }
 ]

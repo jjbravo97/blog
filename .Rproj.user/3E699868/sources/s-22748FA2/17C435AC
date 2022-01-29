@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1643481039460.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2262962993",
+    "id" : "17C435AC",
+    "lastKnownWriteTime" : 1643482157,
+    "last_content_update" : 1643482157537,
+    "path" : "~/jjbravo97/personal_projects/blog/my_theme.css",
+    "project_path" : "my_theme.css",
+    "properties" : {
+        "cursorPosition" : "80,27",
+        "scrollLine" : "54"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "css"
+}

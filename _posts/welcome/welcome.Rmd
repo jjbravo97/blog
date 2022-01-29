@@ -1,13 +1,11 @@
 ---
-title: " "
+title: "Hello World"
 description: | 
   Welcome to my project space
-author:
-  - name: 
-    url: https://example.com/norajones
-    affiliation: Spacely Sprockets
-    affiliation_url: https://example.com/spacelysprokets
 output:
   distill::distill_article:
-    self_contained: false
+      self_contained: false
+
+
+
 ---

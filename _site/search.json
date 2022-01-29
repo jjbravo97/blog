@@ -3,17 +3,18 @@
     {
       "path": "about.html",
       "title": "About this blog",
-      "description": "Some additional details about the blog",
+      "description": "Data, Philosophy, Health, Science.... simply the topics on my mind!",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2022-01-29T12:56:58-05:00"
+      "last_modified": "2022-01-29T14:06:03-05:00"
     },
     {
       "path": "index.html",
       "title": "JJ Bravo",
+      "description": "The meaning of life isn't what you think it is, it is what you make it",
       "author": [],
-      "contents": "\n\n\n\n",
-      "last_modified": "2022-01-29T12:56:58-05:00"
+      "contents": "\n\n          \n      \n      Blog\n      \n      \n      Home\n      About\n      ☰\n      \n      \n      \n        \n          \n            JJ Bravo\n          \n          \n            \n              The meaning of life isn’t what you think it is, it is what you make it\n            \n            \n              The meaning of life isn’t what you think it is, it is what you make it\n            \n          \n\n          \n            \n              \n                  \n                    \n                      Linkedin\n                    \n                  \n                \n                                \n                  \n                    \n                      Github\n                    \n                  \n                \n                              \n          \n\n          \n            \n              \n                                \n                  \n                    Linkedin\n                  \n                \n                                \n                  \n                    Github\n                  \n                \n                              \n            \n          \n        \n      \n    \n\n    \n    \n    ",
+      "last_modified": "2022-01-29T14:06:03-05:00"
     }
   ],
   "collections": ["posts/posts.json"]
